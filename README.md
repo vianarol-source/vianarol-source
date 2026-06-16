@@ -4,7 +4,7 @@
 
 15+ years of experience in energy and infrastructure — including major projects like the Santo Antônio (3,568 MW), Teles Pires (1,820 MW) and Baixo Iguaçu (350 MW) hydroelectric plants, plus work with Braskem and Odebrecht.
 
-Today I lead commercial expansion for **Geradores Capanema** (a Brazilian diesel generator manufacturer) through **FG Soluções Empresariais** — and I build my own software to support that work, turning real sales and operations problems into working tools.
+Today I lead commercial expansion for **Geradores Capanema** (a Brazilian diesel generator manufacturer) through **FG Soluções Empresariais**, and I build my own software to support that work, turning real sales and operations problems into working tools.
 
 ---
 
@@ -12,8 +12,8 @@ Today I lead commercial expansion for **Geradores Capanema** (a Brazilian diesel
 
 A production sales CRM I built and use daily to manage Geradores Capanema's commercial pipeline:
 
-- 📋 Tracks 90+ active proposals and a R$13M+ quoted pipeline
-- 🔔 Automated daily follow-up queue — never lose a lead
+- 📋 Tracks 50+ active proposals and a R$13M+ quoted pipeline
+- 🔔 Automated daily follow-up queue — hard to lose a lead
 - 🏆 Opportunity scoring to prioritize the hottest deals
 - 📄 PDF proposal import & parsing
 - 🔁 Sales cadences for structured outreach
