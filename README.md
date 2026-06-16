@@ -6,9 +6,11 @@
 
 Today I lead commercial expansion for **Geradores Capanema** (a Brazilian diesel generator manufacturer) through **FG Soluções Empresariais**, and I build my own software to support that work, turning real sales and operations problems into working tools.
 
+I'm also studying **Systems Development (TDS)** at SENAI/SESI Capanema — applying what I learn directly to real business problems.
+
 ---
 
-### 🔧 Featured project: CRM Geradores
+### 🔧 CRM Geradores
 
 A production sales CRM I built and use daily to manage Geradores Capanema's commercial pipeline:
 
@@ -19,23 +21,42 @@ A production sales CRM I built and use daily to manage Geradores Capanema's comm
 - 🔁 Sales cadences for structured outreach
 - 👥 Multi-user with authentication
 
-**Stack:** Node.js · Express · bcrypt · express-session · Multer · pdf-parse
+**Stack:** Node.js · Express · SQLite · bcrypt · Multer · pdf-parse  
+**Repo:** [crm-geradores](https://github.com/vianarol-source/crm-geradores)
 
 ---
 
-### 📊 Also built: Fenix LinkedIn Content Engine
+### 🧠 FG Intelligence — Plataforma de Prospecção B2B
+
+Proprietary commercial intelligence platform built on Brazilian Federal Revenue (Receita Federal) data:
+
+- 🗄️ 16M+ active companies with CNAE, UF and municipality filters
+- 📤 Export to CSV, Excel and PDF
+- 🤖 Automated prospecting workflows via n8n + Claude AI
+- 📡 Radar alerts via Telegram bot
+- 🔒 Authentication layer for future monetization
+
+**Stack:** Python · FastAPI · PostgreSQL 16 · Docker · n8n · Traefik  
+**Repo:** [fenix-global](https://github.com/vianarol-source/fenix-global)
+
+---
+
+### 📊 Fenix LinkedIn Content Engine
 
 A web app that generates strategic LinkedIn content for B2B sales teams in the energy sector.
 
-**Live demo:** https://fenix-linkedin-content-engine.vercel.app
-**Stack:** React · TypeScript · Vite · Vercel
+**Live demo:** https://fenix-linkedin-content-engine.vercel.app  
+**Stack:** React · TypeScript · Vite · Claude API  
+**Repo:** [fenix-linkedin-content-engine](https://github.com/vianarol-source/fenix-linkedin-content-engine)
 
 ---
 
 ### 🌱 Currently learning
-Full-stack web development and building production tools for commercial/sales operations.
+
+Full-stack web development (JavaScript, Node.js, React, Python) and applying it directly to commercial operations and sales automation.
 
 ---
 
-📍 Paraná, Brazil — open to remote opportunities in Latin America & beyond
-🔗 [LinkedIn](https://www.linkedin.com/in/aavitor-oliveira)
+📍 Paraná, Brazil — open to remote opportunities in Latin America & beyond  
+🔗 [LinkedIn](https://www.linkedin.com/in/aavitor-oliveira)  
+🏢 [Fenix Global](https://fenixglobal.com.br)
